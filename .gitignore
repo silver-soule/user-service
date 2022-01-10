@@ -1,0 +1,12 @@
+/target/
+logs/
+.project
+.classpath
+.settings/
+.idea/
+/CodeCoverageReport/
+company-services.iml
+.attach*
+*.class
+/kube-target/
+hs_err*
